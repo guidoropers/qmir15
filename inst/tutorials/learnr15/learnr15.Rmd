@@ -36,9 +36,9 @@ Before you start, take a look at the data set for this learnr tutorial (`df_lear
 | `age` | Age (continuous)
 | `hhincome` | Household income (ordinal)
 | `econPersonalRetro1` | Personal economic situation (ordinal)
-| `EuropeanIdentity` | Level of identificatio with Europe (ordinal)
-| `EnglishIdentity` | Level of identificatio with England (ordinal)
-| `BritishIdentity` | Level of identificatio with Great Britain (ordinal)
+| `EuropeanIdentity` | Level of identification with Europe (ordinal)
+| `EnglishIdentity` | Level of identification with England (ordinal)
+| `BritishIdentity` | Level of identification with Great Britain (ordinal)
 | `female` | Female (dummy)
 
 Use the code chunk below, to explore the data set. As you will note, a lot of the variables are **ordinal variables**. 
